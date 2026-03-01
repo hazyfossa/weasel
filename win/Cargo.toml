@@ -3,5 +3,3 @@ name = "weasel-win"
 version.workspace = true
 edition.workspace = true
 authors.workspace = true
-
-[dependencies]
